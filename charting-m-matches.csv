@@ -1104,7 +1104,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20030907-M-US_Open-F-Andy_Roddick-Juan_Carlos_Ferrero,Andy Roddick,Juan Carlos Ferrero,R,R,M,20030907,US Open,F,4:00 PM,Ashe,Hard,Wayne McKewen,5,1,Edo
 20030809-M-Canada_Masters-SF-Roger_Federer-Andy_Roddick,Roger Federer,Andy Roddick,R,R,M,20030809,Canada Masters,SF,,,Hard,,3,1,Isaac
 20030804-M-Canada_Masters-R16-Roger_Federer-Tommy_Robredo,Roger Federer,Tommy Robredo,R,R,M,20030804,Canada Masters,R16,,,Hard,,3,1,Isaac
-20030706-M-Wimbledon-F-Roger_Federer-Mark_Philippousis,Roger Federer,Mark Philippousis,R,R,M,20030706,Wimbledon,F,2:00 PM,Centre,Grass,Gerry Armostrong,5,0,Edo
+20030706-M-Wimbledon-F-Roger_Federer-Mark_Philippoussis,Roger Federer,Mark Philippoussis,R,R,M,20030706,Wimbledon,F,2:00 PM,Centre,Grass,Gerry Armostrong,5,0,Edo
 20030608-M-Roland_Garros-F-Martin_Verkerk-Juan_Carlos_Ferrero,Martin Verkerk,Juan Carlos Ferrero,R,R,M,20030608,Roland Garros,F,15:00:00,Philippe Chatrier,Clay,Pascal Maria,5,0,Edo
 20030505-M-Rome_Masters-R64-David_Ferrer-Andre_Agassi,David Ferrer,Andre Agassi,R,R,M,20030505,Rome Masters,R64,,Centrale,Clay,Romano Grillotti,3,1,Salvo
 20030126-M-Australian_Open-F-Rainer_Schuettler-Andre_Agassi,Rainer Schuettler,Andre Agassi,R,R,M,20030126,Australian Open,F,3:00 PM,Rod Laver Arena,Hard,,5,0,Edo
@@ -1137,7 +1137,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 19981123-M-Tour_Finals-RR-Pete_Sampras-Carlos_Moya,Pete Sampras,Carlos Moya,R,R,M,19981123,Tour Finals,RR,,,Hard,,3,1,Isaac
 19981102-M-Paris_Masters-R32-Todd_Woodbridge-Marcelo_Rios,Todd Woodbridge,Marcelo Rios,R,L,M,19981102,Paris Masters,R32,,,Hard,,3,1,Isaac
 19981005-M-Basel-R32-Andre_Agassi-Roger_Federer,Andre Agassi,Roger Federer,R,R,M,19981005,Basel,R32,,,Hard,,3,1,Amy
-19980913-M-US_Open-F-Patrick_Rafter-Mark_Philippousis,Patrick Rafter,Mark Philippousis,R,R,M,19980913,US Open,F,,Ashe,Hard,Steve Ullrich,5,1,Edo
+19980913-M-US_Open-F-Patrick_Rafter-Mark_Philippoussis,Patrick Rafter,Mark Philippoussis,R,R,M,19980913,US Open,F,,Ashe,Hard,Steve Ullrich,5,1,Edo
 19980817-M-New_Haven-R32-Pete_Sampras-Lleyton_Hewitt,Pete Sampras,Lleyton Hewitt,R,R,M,19980817,New Haven,R32,,,Hard,,3,1,Isaac
 19980810-M-Cincinnati_Masters-SF-Yevgeny_Kafelnikov-Patrick_Rafter,Yevgeny Kafelnikov,Patrick Rafter,R,R,M,19980810,Cincinnati Masters,SF,,,Hard,,3,1,Isaac
 19980705-M-Wimbledon-F-Goran_Ivanisevic-Pete_Sampras,Goran Ivanisevic,Pete Sampras,L,R,M,19980705,Wimbledon,F,2:00 PM,Centre,Grass,Michael Morrissey,5,0,Edo
