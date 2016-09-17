@@ -648,7 +648,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20140929-W-Beijing-R64-Sabine_Lisicki-Shilin_Xu,Sabine Lisicki,Shilin Xu,R,R,W,20140929,Beijing,R64,,,Hard,Felix Torralba,3,1,mingz
 20140929-W-Beijing-R16-Barbora_Zahlavova_Strycova-Simona_Halep,Barbora Zahlavova Strycova,Simona Halep,R,R,W,20140929,Beijing,R16,,,Hard,,3,1,jeffsackmann
 20140928-W-Beijing-R64-Agnieszka_Radwanska-Coco_Vandeweghe,Agnieszka Radwanska,Coco Vandeweghe,R,R,W,20140928,Beijing,R64,,,Hard,,3,1,Lowell
-20140927-W-Wuhan-F-Petra_Kvitova-Eugenie_Bouchard,Petra Kvitova,Eugenie Bouchard,R,L,W,20140927,Wuhan,F,,Main,Hard,,3,1,Lowell
+20140927-W-Wuhan-F-Petra_Kvitova-Eugenie_Bouchard,Petra Kvitova,Eugenie Bouchard,L,R,W,20140927,Wuhan,F,,Main,Hard,,3,1,Lowell
 20140926-W-Wuhan-SF-Petra_Kvitova-Elina_Svitolina,Petra Kvitova,Elina Svitolina,L,R,W,20140926,Wuhan,SF,,Main,Hard,,3,1,Lowell
 20140926-W-Wuhan-SF-Caroline_Wozniacki-Eugenie_Bouchard,Caroline Wozniacki,Eugenie Bouchard,R,R,W,20140926,Wuhan,SF,,Main,Hard,,3,1,Lowell
 20140925-W-Wuhan-QF-Elina_Svitolina-Angelique_Kerber,Elina Svitolina,Angelique Kerber,R,L,W,20140925,Wuhan,QF,,Main,Hard,,3,1,Lowell
@@ -915,21 +915,21 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20120902-W-US_Open-R16-Andrea_Hlavackova-Serena_Williams,Andrea Hlavackova,Serena Williams,R,R,W,20120902,US Open,R16,,Arthur Ashe Stadium,Hard,,3,1,Isaac
 20120829-W-US_Open-R64-Maria_Sharapova-Lourdes_Dominguez_Lino,Maria Sharapova,Lourdes Dominguez Lino,R,R,W,20120829,US Open,R64,,,Hard,,3,1,Isaac
 20120810-W-Montreal-R16-Marion_Bartoli-Petra_Kvitova,Marion Bartoli,Petra Kvitova,R,L,W,20120810,Montreal,R16,12:15 PM,,Hard,,3,1,Lowell
-20120804-W-Olympics-F-Serena_Williams-Maria_Sharapova,Serena Williams,Maria Sharapova,R,R,W,20120804,Olympics,F,,Centre,Grass,,3,0,Lowell
-20120804-W-Olympics-BR-Victoria_Azarenka-Maria_Kirilenko,Victoria Azarenka,Maria Kirilenko,R,R,W,20120804,Olympics,BR,,1,Grass,Mariana Alves,3,0,Salvo
-20120803-W-Olympics-SF-Serena_Williams-Victoria_Azarenka,Serena Williams,Victoria Azarenka,R,R,W,20120803,Olympics,SF,,Centre,Grass,John Blom,3,0,Salvo
-20120803-W-Olympics-SF-Maria_Sharapova-Maria_Kirilenko,Maria Sharapova,Maria Kirilenko,R,R,W,20120803,Olympics,SF,,1,Grass,Eva Asderaki,3,0,Salvo
-20120802-W-Olympics-QF-Victoria_Azarenka-Angelique_Kerber,Victoria Azarenka,Angelique Kerber,R,L,W,20120802,Olympics,QF,,Centre,Grass,,3,1,Lowell
-20120802-W-Olympics-QF-Kim_Clijsters-Maria_Sharapova,Kim Clijsters,Maria Sharapova,R,R,W,20120802,Olympics,QF,,Centre,Grass,Carlos Ramos,3,0,Salvo
-20120731-W-Olympics-R32-Laura_Robson-Maria_Sharapova,Laura Robson,Maria Sharapova,L,R,W,20120731,Olympics,R32,,Centre,Grass,Mariana Alves,3,0,Salvo
-20120731-W-Olympics-R32-Aleksandra_Wozniak-Venus_Williams,Aleksandra Wozniak,Venus Williams,R,R,W,20120731,Olympics,R32,,Centre,Grass,Alison Lang,3,0,Salvo
-20120730-W-Olympics-R64-Serena_Williams-Jelena_Jankovic,Serena Williams,Jelena Jankovic,R,R,W,20120730,Olympics,R64,,,Grass,,3,1,Isaac
-20120730-W-Olympics-R64-Maria_Sharapova-Shahar_Peer,Maria Sharapova,Shahar Peer,R,R,W,20120730,Olympics,R64,,,Grass,,3,1,Isaac
-20120730-W-Olympics-R16-Vera_Zvonareva-Serena_Williams,Vera Zvonareva,Serena Williams,R,R,W,20120730,Olympics,R16,,,Grass,,3,1,Isaac
-20120730-W-Olympics-R16-Daniela_Hantuchova-Caroline_Wozniacki,Daniela Hantuchova,Caroline Wozniacki,R,R,W,20120730,Olympics,R16,,,Grass,,3,1,Amy
-20120729-W-Olympics-R64-Agnieszka_Radwanska-Julia_Goerges,Agnieszka Radwanska,Julia Goerges,R,R,W,20120729,Olympics,R64,,Centre,Grass,Gianluca Moscarella,3,0,Salvo
-20120728-W-Olympics-R64-Vera_Zvonareva-Sofia_Arvidsson,Vera Zvonareva,Sofia Arvidsson,R,R,W,20120728,Olympics,R64,,14,Grass,James Keothavong,3,0,Salvo
-20120728-W-Olympics-R64-Ana_Ivanovic-Christina_Mchale,Ana Ivanovic,Christina Mchale,R,R,W,20120728,Olympics,R64,,4,Grass,Louise Engzell,3,0,Salvo
+20120804-W-Olympics-F-Serena_Williams-Maria_Sharapova,Serena Williams,Maria Sharapova,R,R,W,20120804,London Olympics,F,,Centre,Grass,,3,0,Lowell
+20120804-W-Olympics-BR-Victoria_Azarenka-Maria_Kirilenko,Victoria Azarenka,Maria Kirilenko,R,R,W,20120804,London Olympics,BR,,1,Grass,Mariana Alves,3,0,Salvo
+20120803-W-Olympics-SF-Serena_Williams-Victoria_Azarenka,Serena Williams,Victoria Azarenka,R,R,W,20120803,London Olympics,SF,,Centre,Grass,John Blom,3,0,Salvo
+20120803-W-Olympics-SF-Maria_Sharapova-Maria_Kirilenko,Maria Sharapova,Maria Kirilenko,R,R,W,20120803,London Olympics,SF,,1,Grass,Eva Asderaki,3,0,Salvo
+20120802-W-Olympics-QF-Victoria_Azarenka-Angelique_Kerber,Victoria Azarenka,Angelique Kerber,R,L,W,20120802,London Olympics,QF,,Centre,Grass,,3,1,Lowell
+20120802-W-Olympics-QF-Kim_Clijsters-Maria_Sharapova,Kim Clijsters,Maria Sharapova,R,R,W,20120802,London Olympics,QF,,Centre,Grass,Carlos Ramos,3,0,Salvo
+20120731-W-Olympics-R32-Laura_Robson-Maria_Sharapova,Laura Robson,Maria Sharapova,L,R,W,20120731,London Olympics,R32,,Centre,Grass,Mariana Alves,3,0,Salvo
+20120731-W-Olympics-R32-Aleksandra_Wozniak-Venus_Williams,Aleksandra Wozniak,Venus Williams,R,R,W,20120731,London Olympics,R32,,Centre,Grass,Alison Lang,3,0,Salvo
+20120730-W-Olympics-R64-Serena_Williams-Jelena_Jankovic,Serena Williams,Jelena Jankovic,R,R,W,20120730,London Olympics,R64,,,Grass,,3,1,Isaac
+20120730-W-Olympics-R64-Maria_Sharapova-Shahar_Peer,Maria Sharapova,Shahar Peer,R,R,W,20120730,London Olympics,R64,,,Grass,,3,1,Isaac
+20120730-W-Olympics-R16-Vera_Zvonareva-Serena_Williams,Vera Zvonareva,Serena Williams,R,R,W,20120730,London Olympics,R16,,,Grass,,3,1,Isaac
+20120730-W-Olympics-R16-Daniela_Hantuchova-Caroline_Wozniacki,Daniela Hantuchova,Caroline Wozniacki,R,R,W,20120730,London Olympics,R16,,,Grass,,3,1,Amy
+20120729-W-Olympics-R64-Agnieszka_Radwanska-Julia_Goerges,Agnieszka Radwanska,Julia Goerges,R,R,W,20120729,London Olympics,R64,,Centre,Grass,Gianluca Moscarella,3,0,Salvo
+20120728-W-Olympics-R64-Vera_Zvonareva-Sofia_Arvidsson,Vera Zvonareva,Sofia Arvidsson,R,R,W,20120728,London Olympics,R64,,14,Grass,James Keothavong,3,0,Salvo
+20120728-W-Olympics-R64-Ana_Ivanovic-Christina_Mchale,Ana Ivanovic,Christina Mchale,R,R,W,20120728,London Olympics,R64,,4,Grass,Louise Engzell,3,0,Salvo
 20120723-W-Baku-R32-Qiang_Wang-Mandy_Minella,Qiang Wang,Mandy Minella,R,R,W,20120723,Baku,R32,,,Hard,,3,1,Amy
 20120707-W-Wimbledon-F-Serena_Williams-Agnieszka_Radwanska,Serena Williams,Agnieszka Radwanska,R,R,W,20120707,Wimbledon,F,14:00,Centre,Grass,Lars Graff,3,0,jeffsackmann
 20120705-W-Wimbledon-SF-Agnieszka_Radwanska-Angelique_Kerber,Agnieszka Radwanska,Angelique Kerber,R,L,W,20120705,Wimbledon,SF,,Centre,Grass,,3,0,jeffsackmann
@@ -1007,7 +1007,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20050604-W-Roland_Garros-F-Mary_Pierce-Justine_Henin,Mary Pierce,Justine Henin,R,R,W,20050604,Roland Garros,F,,Court Philippe Chatrier,Clay,,3,0,1HandBH
 20050129-W-Australian_Open-F-Serena_Williams-Lindsay_Davenport,Serena Williams,Lindsay Davenport,R,R,W,20050129,Australian Open,F,8:00 PM,Rod Laver Arena,Hard,Alison Lang,3,0,Edo
 20040910-W-US_Open-F-Svetlana_Kuznetsova-Elena_Dementieva,Svetlana Kuznetsova,Elena Dementieva,R,R,W,20040910,US Open,F,,Ashe,Hard,,3,1,jeffsackmann
-20040815-W-Olympics-F-Amelie_Mauresmo-Justine_Henin,Amelie Mauresmo,Justine Henin,R,R,W,20040815,Olympics,F,,,Hard,,3,1,Amy
+20040815-W-Olympics-F-Amelie_Mauresmo-Justine_Henin,Amelie Mauresmo,Justine Henin,R,R,W,20040815,Athens Olympics,F,,,Hard,,3,1,Amy
 20040703-W-Wimbledon-F-Maria_Sharapova-Serena_Williams,Maria Sharapova,Serena Williams,R,R,W,20040703,Wimbledon,F,14:00:00,Centre,Grass,Alison Lang,3,0,Edo
 20040605-W-Roland_Garros-F-Anastasia_Myskina-Elena_Dementieva,Anastasia Myskina,Elena Dementieva,R,R,W,20040605,Roland Garros,F,,Chatrier,Clay,,3,0,jeffsackmann
 20040131-W-Australian_Open-F-Kim_Clijsters-Justine_Henin,Kim Clijsters,Justine Henin,R,R,W,20040131,Australian Open,F,,Rod Laver Arena,Hard,,3,0,Edo
@@ -1054,7 +1054,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 19910908-W-US_Open-F-Monica_Seles-Martina_Navratilova,Monica Seles,Martina Navratilova,L,L,W,19910908,US Open,F,,,Hard,,3,1,Isaac
 19910706-W-Wimbledon-F-Gabriela_Sabatini-Steffi_Graf,Gabriela Sabatini,Steffi Graf,R,R,W,19910706,Wimbledon,F,2:00 PM,Centre,Grass,Jane Tabor,3,0,Edo
 19910608-W-Roland_Garros-F-Monica_Seles-Arantxa_Sanchez_Vicario,Monica Seles,Arantxa Sanchez Vicario,L,R,W,19910608,Roland Garros,F,2:00 PM,Philippe Chatrier,Clay,Jean-Philippe Merlet,3,0,Edo
-1990409-W-Amelia_Island-F-Steffi_Graf-Arantxa_Sanchez_Vicario,Steffi Graf,Arantxa Sanchez Vicario,R,R,W,1990409,Amelia Island,F,,Center,Clay,Tom Cooke,3,1,Isaac
+1990409-W-Amelia_Island-F-Steffi_Graf-Arantxa_Sanchez_Vicario,Steffi Graf,Arantxa Sanchez Vicario,R,R,W,19900409,Amelia Island,F,,Center,Clay,Tom Cooke,3,1,Isaac
 19901008-W-Zurich-F-Steffi_Graf-Gabriela_Sabatini,Steffi Graf,Gabriela Sabatini,R,R,W,19901008,Zurich,F,,,Carpet (hard),,3,1,Isaac
 19900908-W-US_Open-F-Steffi_Graf-Gabriela_Sabatini,Steffi Graf,Gabriela Sabatini,R,R,W,19900908,US Open,F,,Ashe,Hard,Linda Hinshaw,3,1,Edo
 19900827-W-US_Open-R16-Steffi_Graf-Jennifer_Capriati,Steffi Graf,Jennifer Capriati,R,R,W,19900827,US Open,R16,,,Hard,,3,1,Isaac
